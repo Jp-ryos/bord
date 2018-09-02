@@ -1,0 +1,2 @@
+#deploy to heroku 
+#this file should be written "python --version"
